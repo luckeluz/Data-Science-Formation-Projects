@@ -1,4 +1,4 @@
-----ENGLISH----
+ENGLISH
 Hangman game developed using OOP in Python 3.7.
 
 The game is in Brazilian Portuguese and has a database of more than 22000 words.
@@ -15,7 +15,7 @@ In order to play, follow the instructions below.
 
 Have fun.
 _______________________________________________________________________________________
-----PORTUGUÊS----
+PORTUGUÊS
 Jogo da forca desenvolvido utilizando POO em Python 3.7
 
 O jogo está em PT-BR e tem um banco com mais de 22000 palavras.
